@@ -16,13 +16,13 @@
 ## Knowledge Base
 
 *   **Languages:**
-*   [![My Skills](https://skillicons.dev/icons?i=java,javascript,py,html,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,javascript)](https://skillicons.dev)
 *   **Frameworks:**
-*   [![My Skills](https://skillicons.dev/icons?i=vue,react,)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=vue,react,)](https://skillicons.dev)
 *   **Backend & Tools:**
-*   [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,vscode)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,vscode)](https://skillicons.dev)
 *   **Operating System**
-*   [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
 
