@@ -9,8 +9,6 @@
 ## About Me
 
 
-### Knowledge Base
-
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,javascript)](https://skillicons.dev)
 ## Frameworks:
