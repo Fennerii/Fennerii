@@ -1,11 +1,24 @@
+<div align="center">
+
+[![Visitor Counter](https://komarev.com/ghpvc/?username=ndg8743&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/ndg8743)
+[![GitHub followers](https://img.shields.io/github/followers/ndg8743?style=for-the-badge&color=22c55e&labelColor=1c1917&label=FOLLOWERS)](https://github.com/ndg8743)
+</div>
+
+<div align="center">
+
+### Languages & Frameworks
+
+
+### Tools & Technologies
+
+
+
+### Frontend & Backend
+
+
+
 # Welcome To My Github Profile
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    
-   
-  </a>
-</p>
 
 ## About Me
 
@@ -22,8 +35,4 @@
      [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
-
-### GitHub Overalls
-<p align="center">
-  <img src="https://vercel.app[YOUR-GITHUB-USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+</div>
