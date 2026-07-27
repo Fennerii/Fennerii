@@ -1,22 +1,10 @@
 <div align="center">
 
-[![Visitor Counter](https://komarev.com/ghpvc/?username=ndg8743&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/ndg8743)
-[![GitHub followers](https://img.shields.io/github/followers/ndg8743?style=for-the-badge&color=22c55e&labelColor=1c1917&label=FOLLOWERS)](https://github.com/ndg8743)
+[![Visitor Counter](https://komarev.com/ghpvc/?username=ndg8743&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/fennerii)
+[![GitHub followers](https://img.shields.io/github/followers/ndg8743?style=for-the-badge&color=22c55e&labelColor=1c1917&label=FOLLOWERS)](https://github.com/fennerii)
 </div>
 
 <div align="center">
-
-### Languages & Frameworks
-
-
-### Tools & Technologies
-
-
-
-### Frontend & Backend
-
-
-
 # Welcome To My Github Profile
 
 
