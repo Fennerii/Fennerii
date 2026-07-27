@@ -15,7 +15,7 @@
 
 ## Knowledge Base
 
-*   **Languages:** JavaScript (`js`), TypeScript (`ts`), Python (`py`)
+*   **Languages:** [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 *   **Frontend Frameworks:** React (`react`), Next.js (`nextjs`), Vue (`vue`)
 *   **Backend & Tools:** Node.js (`nodejs`), Git (`git`), Docker (`docker`), VS Code (`vscode`)
 
