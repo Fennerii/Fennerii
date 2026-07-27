@@ -8,20 +8,17 @@
 </p>
 
 ## About Me
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[A New Tech or Skill]**
-- 💬 Ask me about **[Your Specialization / Interests]**
-- 📫 How to reach me: **[Your Email / Social Link]**
+
 
 ## Knowledge Base
 
-*   **Languages:**
-   [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,javascript)](https://skillicons.dev)
-*   **Frameworks:**
+*   **Languages:**&nbsp;
+     [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,javascript)](https://skillicons.dev)
+*   **Frameworks:**&nbsp;
      [![My Skills](https://skillicons.dev/icons?i=vue,react,)](https://skillicons.dev)
-*   **Backend & Tools:**
+*   **Backend & Tools:**&nbsp;
     [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,vscode)](https://skillicons.dev)
-*   **Operating System**
+*   **Operating System**&nbsp;
      [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
