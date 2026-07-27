@@ -15,9 +15,14 @@
 
 ## Knowledge Base
 
-*   **Languages:** [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-*   **Frontend Frameworks:** React (`react`), Next.js (`nextjs`), Vue (`vue`)
-*   **Backend & Tools:** Node.js (`nodejs`), Git (`git`), Docker (`docker`), VS Code (`vscode`)
+*   **Languages:**
+*   [![My Skills](https://skillicons.dev/icons?i=java,javascript,py,html,css)](https://skillicons.dev)
+*   **Frameworks:**
+*   [![My Skills](https://skillicons.dev/icons?i=vue,react,)](https://skillicons.dev)
+*   **Backend & Tools:**
+*   [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,vscode)](https://skillicons.dev)
+*   **Operating System**
+*   [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
 
