@@ -14,7 +14,7 @@
 ## Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=vue,react,fastapi)](https://skillicons.dev)
 ## Backend & Tools:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,sql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,mysql,vscode)](https://skillicons.dev)
 ## Operating System
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
