@@ -8,14 +8,13 @@
 
 ## About Me
 
-## Development Tools
-### Languages: 
+## Languages: 
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,javascript,typescript)](https://skillicons.dev)
-### Frameworks:
+## Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=vue,react,fastapi)](https://skillicons.dev)
-### Backend & Tools:
+## Backend & Tools:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,mysql,vscode)](https://skillicons.dev)
-### Operating System
+## Operating System
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
