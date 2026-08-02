@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## About Me
+## About Me 
 
 ## Languages: 
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,javascript,typescript)](https://skillicons.dev)
