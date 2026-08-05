@@ -18,4 +18,3 @@
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
-<p style='font-family: "Times New Roman", Times, serif;'>Resume</p></div>
