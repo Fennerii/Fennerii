@@ -8,7 +8,7 @@
 
 ## About Me 
 
-## Languages: 
+## Languages:  
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,javascript,typescript)](https://skillicons.dev)
 ## Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=vue,react,fastapi)](https://skillicons.dev)
